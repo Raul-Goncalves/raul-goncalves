@@ -3,7 +3,7 @@
 #
 
 ## **_My History🚀_**
-#### My name is Raul, I ate programming for 15 years, whenever there was a lot of curiosity about technology, so whenever there was something problematic I tried to fix it myself, but it always worked, so I was always interested in how the system or the programming of the device works . I play a game until today that taught me a program that was Minecraft. I was always very addicted to this game so I went to a server and saw a lot of things that I didn't have in the normal game, so I was looking for how to do that and from that point on I never abandoned programming and I am always looking to learn each programming language
+#### My name is Raul, I started programming at the age of 15, I was always interested in new technologies, so whenever there was something problematic related to the technology I tried to fix it myself, most of the time I tried to fix it, and always in the end it ends up being spoiled by me. But I started making a plugin for a certain game called Minecraft and from that moment I never left programming like the game.
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raul-goncalves&show_icons=true&theme=kacho_ga)
 #
