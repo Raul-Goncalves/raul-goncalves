@@ -16,8 +16,8 @@
 # My Experenciences
  - Java = 85% ♨️
  - JavaScript = 35% ♨️
- - MySQL = 15% 📁
- - NoSQL = 15% 📁
+ - MySQL = 45% 📁
+ - NoSQL = 45% 📁
  - JPA = 15% 📁
  - JDBC = 15% 📁
 #
