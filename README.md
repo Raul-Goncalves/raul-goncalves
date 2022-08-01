@@ -1,5 +1,5 @@
 #
-![cover](https://i.imgur.com/z0ii5WE.png)
+![cover](https://i.imgur.com/yRGSNxX.png)
 #
 
 ## **_My History🚀_**
