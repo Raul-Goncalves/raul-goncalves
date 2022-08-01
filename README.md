@@ -14,10 +14,7 @@
 ![Rocket_Up](https://user-images.githubusercontent.com/55052353/111562294-df371680-878d-11eb-838c-94a8ff74da91.gif)
 #
 # My Experenciences
- - Java = 85% ♨️
- - JavaScript = 35% ♨️
+ - Java = 50% ♨️
+ - JavaScript = 25% ♨️
  - MySQL = 45% 📁
- - NoSQL = 45% 📁
- - JPA = 15% 📁
- - JDBC = 15% 📁
 #
