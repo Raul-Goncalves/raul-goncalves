@@ -1,5 +1,5 @@
 #
-![cover]([https://user-images.githubusercontent.com/55052353/111557860-6e8bfc00-8785-11eb-8375-9de05af8ef61.png](https://i.imgur.com/z0ii5WE.png))
+![cover](https://i.imgur.com/z0ii5WE.png)
 #
 
 ## **_My History🚀_**
