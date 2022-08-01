@@ -7,12 +7,7 @@
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raul-goncalves&show_icons=true&theme=kacho_ga)
 #
-## **_What is Lookup🌌_**
 
-#### **LOOKUP** and a community of Minecraft players that I have for about 3 years that I am trying to innovate a game method that has in minecraft my server has had many ups and downs but lately we are lower, I believe that someday we will be up there like no one else will reach us
-#
-![Rocket_Up](https://user-images.githubusercontent.com/55052353/111562294-df371680-878d-11eb-838c-94a8ff74da91.gif)
-#
 # My Experenciences
  - Java = 50% ♨️
  - JavaScript = 25% ♨️
