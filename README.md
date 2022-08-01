@@ -13,3 +13,5 @@
  - JavaScript = 25% ♨️
  - MySQL = 45% 📁
 #
+
+![snake gif](https://github.com/Raul-Goncalves/Raul-Goncalves/blob/output/github-contribution-grid-snake.gif)
